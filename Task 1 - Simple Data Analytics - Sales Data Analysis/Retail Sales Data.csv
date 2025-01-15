@@ -1,0 +1,46 @@
+Invoice_ID,Product Name,Category,Quantity Sold,Unit Price,Sales Date,Customer Name,City,Total Sales
+INV001,Mobile Phone,Electronics,10,15000,2024/06/01,John Doe,New York,150000
+INV002,headphones ,Accessories,15,2000,2024-06-02,Jane Smith,Los Angeles,30000
+INV003,LAPTOP,Electronics,5,50000,06-03-2024,Michael Brown, new york,250000
+INV004,Refrigerator,Home Appliances,3,30000,2024/06/04,John Doe,Chicago,90000
+INV005,Jeans,Clothing,20,1200,2024-06-05,Emily Davis,Los angeles,24000
+INV006,Mobile Phone,Electronics,,15000,2024/06/01,John Doe,New York,
+INV007,SHOES,Footwear,25,1500,2024-06-06,Chris Wilson, San Francisco,37500
+INV008,Microwave ,Home Appliances,8,12000,06/07/2024,Michael Brown,Chicago,96000
+INV009,,Clothing,50,500,2024-06-08,Jane Smith,Los Angeles,25000
+INV010,shoes,Footwear,25,1500,2024-06-06,Chris Wilson, san francisco,37500
+INV011,Laptop,Electronics,5,,2024/06/09,John Doe, New York,
+INV012,T-shirt,Clothing,35,500,2024/06/10,Emily Davis,Los Angeles,17500
+INV013,Refrigerator,Home Appliances,3,30000,2024-06-04,John Doe,Chicago,90000
+INV014,Microwave,Home Appliances,8,12000,2024/06/11,Michael Brown,Chicago,96000
+INV015,headphones,Accessories,20,,06-12-2024,Jane Smith,Los Angeles,
+INV016,Smart Watch,Accessories,18,2500,2024-06-13,Sophia Wilson,San Diego,45000
+INV017,Blender,Home Appliances,12,7000,2024/06/14,Ethan Clark,Chicago,84000
+INV018,Jeans,Clothing,30,1200,06-15-2024,Olivia Brown,New York,36000
+INV019,Shoes,Footwear,40,1500,2024-06-16,William Taylor,Los Angeles,60000
+INV020,Vacuum Cleaner,Home Appliances,5,15000,2024/06/17,Liam Hall,Boston,75000
+INV021,Laptop,Electronics,4,50000,2024-06-18,John Doe,Chicago,200000
+INV022,T-shirt,Clothing,60,500,06/19/2024,Emily Davis,San Francisco,30000
+INV023,Microwave ,Home Appliances,9,12000,2024-06-20,Michael Brown,Chicago,108000
+INV024,Smart Watch,Accessories,15,2500,06-21-2024,Sophia Wilson,San Diego,37500
+INV025,Blender,Home Appliances,6,7000,2024/06/22,Ethan Clark,San Francisco,42000
+INV026,Headphones,Accessories,22,2000,06-23-2024,Jane Smith,New York,44000
+INV027,Shoes,Footwear,18,1500,2024-06-24,William Taylor,Los Angeles,27000
+INV028,Laptop,Electronics,,50000,2024/06/25,John Doe,San Diego,
+INV029,Refrigerator,Home Appliances,3,30000,06/26/2024,Liam Hall,Chicago,90000
+INV030,Jeans,Clothing,15,1200,2024-06-27,Olivia Brown,San Francisco,18000
+INV031,Mobile Phone,Electronics,12,15000,06-28-2024,John Doe,Boston,180000
+INV032,Microwave,Home Appliances,7,12000,2024/06/29,Michael Brown,Chicago,84000
+INV033,T-shirt,Clothing,40,500,2024-06-30,Emily Davis,Los Angeles,20000
+INV034,Laptop,Electronics,6,50000,2024/07/01,John Doe,San Francisco,300000
+INV035,Blender,Home Appliances,10,7000,07-02-2024,Ethan Clark,Chicago,70000
+INV036,Headphones,Accessories,30,2000,2024-07-03,Jane Smith,New York,60000
+INV037,Shoes,Footwear,20,1500,07/04/2024,Chris Wilson,San Francisco,30000
+INV038,T-shirt,Clothing,25,500,2024-07-05,Emily Davis,Los Angeles,12500
+INV039,Smart Watch,Accessories,10,2500,07/06/2024,Sophia Wilson,Boston,25000
+INV040,Vacuum Cleaner,Home Appliances,4,15000,2024-07-07,Liam Hall,San Diego,60000
+INV041,Jeans,Clothing,22,1200,07/08/2024,Olivia Brown,New York,26400
+INV042,Microwave,Home Appliances,5,12000,2024-07-09,Michael Brown,Chicago,60000
+INV043,Headphones,Accessories,15,2000,07/10/2024,Jane Smith,San Francisco,30000
+INV044,Shoes,Footwear,30,1500,2024-07-11,William Taylor,Los Angeles,45000
+INV045,Blender,Home Appliances,8,7000,2024-07-12,Ethan Clark,San Diego,56000
